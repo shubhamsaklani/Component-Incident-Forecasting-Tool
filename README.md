@@ -63,20 +63,12 @@ The research sets the foundation for improving predictive quality assurance in e
 - Enhancing user experience through Streamlit-based interactive dashboards
 
 ## How to Use
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_directory>
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Streamlit application:
+
+1. Run the Streamlit application:
    ```bash
    streamlit run Component_Incident_Forecasting_UI.py
    ```
-4. Explore the Jupyter Notebook for model insights:
+2. Explore the Jupyter Notebook for model insights:
    ```bash
    jupyter notebook customer_incident_prediction.ipynb
    ```
